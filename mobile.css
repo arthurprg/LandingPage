@@ -1,0 +1,108 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html,body{
+    background-color: rgb(32, 32, 32);
+    width: 100%;
+    min-width: 40%;
+}
+
+.container h1{
+    letter-spacing: 2px;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Caviar Dreams";
+    color: rgb(255, 255, 255);
+    background-color: rgb(8, 160, 101);
+}
+
+.container .text1{
+    margin-top: 20px;
+    padding: 24px 10px 24px 10px;
+    letter-spacing: 2px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Caviar Dreams";
+    color: rgb(255, 255, 255);
+}
+
+.container .text2{
+    margin-bottom: 30px;
+    padding: 24px 10px 24px 10px;
+    letter-spacing: 2px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Caviar Dreams";
+    color: rgb(0, 0, 0);
+    background-color: rgb(8, 160, 101);
+}
+
+.img1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img1 img{
+    border-radius: 5px;
+    margin: 10px;
+    width: 330px;
+    min-width: 200px;
+
+}
+
+.container .text3{
+    margin-top: 20px;
+    padding: 24px 10px 24px 10px;
+    letter-spacing: 2px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Caviar Dreams";
+    color: rgb(255, 255, 255);
+}
+
+.container .text4{
+    margin-bottom: 80px;
+    padding: 24px 10px 24px 10px;
+    letter-spacing: 2px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Caviar Dreams";
+    color: rgb(0, 0, 0);
+    background-color: rgb(8, 160, 101);
+}
+
+.container .botao1 a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container .botao1 a{
+    border-radius: 50px;
+    font-weight: 600;
+    font-family: "Caviar Dreams";
+    font-size: 20px;
+    padding: 22px 20px 22px 40px;
+    margin: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 95, 59);
+}
+
+.container .text5{
+    margin-top: 80px;
+    padding: 3px;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: "Caviar Dreams";
+    color: rgb(255, 255, 255);
+    background-color: rgb(8, 160, 101);
+    text-align: center;
+}
